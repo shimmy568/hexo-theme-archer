@@ -1,16 +1,16 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/me.png
 # author name
-author: fi3ework
+author: Shimmy568
 # signature
-signature: witness me
+signature: memes in me dreams
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: owenthomasanderson@gmail.com
+  github: //github.com/shimmy568
   # wechat and qq should be a path of qr-code image
-  wechat: /assets/example_qr.png
+  wechat:
   qq: 
   telegram: 
   weibo: 
@@ -30,23 +30,21 @@ social:
   rss: 
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
-  friendC: 
+  friendA: 
 about:
   enable: true
   image: '/intro/about-bg.jpg'
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: Shimmy568's Programming Den
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: Shimmy568's Programming Den
 # subtitle
 subtitle: it's better to burn out than to fade away
 # site haeder image
@@ -96,7 +94,7 @@ busuanzi_slug: 'PV: ${count} :)'
 # Baidu analytics
 baidu_analytics: 
 # Google analytics
-google_analytics: 
+google_analytics: UA-130476283-2
 # CNZZ analytics
 CNZZ_analytics: 
 
