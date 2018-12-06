@@ -105,7 +105,7 @@ social:
   v2ex:
   linkedin:
   blog:
-  others:
+  website:
   rss: /atom.xml
 # friends link
 friends:
@@ -178,7 +178,7 @@ google_analytics:
 # CNZZ analytics
 CNZZ_analytics:
 
-# ========== Others ========== #
+# ========== website ========== #
 # favicon
 favicon:
 # truncate length of abstracts in index page (the default is 300, there will be no abstruct if you set it to 0)

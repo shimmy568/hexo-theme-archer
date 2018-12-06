@@ -4,7 +4,7 @@ avatar: /avatar/me.png
 # author name
 author: Shimmy568
 # signature
-signature: memes in me dreams
+signature: Memes in me Dreams
 # SNS (you can custom the order)
 social:
   email: owenthomasanderson@gmail.com
@@ -24,13 +24,13 @@ social:
   juejin: 
   v2ex: 
   bilibili: 
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/owen-anderson-7a9b8b51/
   steam: 
-  others: 
+  website: https://www.oanderson.me
   rss: 
 # friends
-friends:
-  friendA: 
+# friends:
+#   friendA: 
 about:
   enable: true
   image: '/intro/about-bg.jpg'
@@ -45,8 +45,9 @@ SEO_keywords:
   - 'hexo-blog'
 # main title shown in header image
 main_title: Shimmy568's Programming Den
+redirectTitle: Home
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: Lets Burn This Mother Down
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
@@ -86,7 +87,7 @@ comment:
 
 # ========== Analytics ========== #
 # enable Busuanzi analytics
-busuanzi: true
+busuanzi: false
 # fill in pv or uv
 busuanzi_pv_or_uv: 'pv'
 # custom analytic slogan, '${count}' is the analytic number, DO NOT modify it.
@@ -98,7 +99,7 @@ google_analytics: UA-130476283-2
 # CNZZ analytics
 CNZZ_analytics: 
 
-# ========== Others ========== #
+# ========== website ========== #
 # favicon
 favicon: /assets/favicon.ico
 # truncate length of abstracts in index page (the default is 300, there will be no abstruct if you input 0)
@@ -115,4 +116,4 @@ about_intro_height: 50
 copyright:
   enable: true
   # https://creativecommons.org/
-  license: '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
+  license: 'This article is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-Noncommercial Use 4.0 International License Agreement</a>'

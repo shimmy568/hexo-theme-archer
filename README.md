@@ -131,7 +131,7 @@ social:
   v2ex:
   linkedin:
   blog:
-  others:
+  website:
   rss: /atom.xml
 # 友链
 friends:
