@@ -37,17 +37,23 @@ about:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: Shimmy568's Programming Den
+SEO_title: Shimmy568's Programming / Software Engineering Blog
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
+  - blog
+  - programming
+  - software
+  - engineering
+  - software engineering
+  - memes
 # main title shown in header image
-main_title: Shimmy568's Programming Den
+main_title: Shimmy568's 
 redirectTitle: Home
 # subtitle
-subtitle: Lets Burn This Mother Down
+subtitle: Warning High Levels of Sarcasm Ahead
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
