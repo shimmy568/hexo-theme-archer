@@ -124,6 +124,6 @@ post_intro_height: 50
 about_intro_height: 50
 # copyright
 copyright:
-  enable: true
+  enable: false
   # https://creativecommons.org/
   license: 'This article is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-Noncommercial Use 4.0 International License Agreement</a>'
