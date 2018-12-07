@@ -49,8 +49,12 @@ SEO_keywords:
   - engineering
   - software engineering
   - memes
+  - "{{witty-title}}"
+  - witty-title
+  - witty
+  - title
 # main title shown in header image
-main_title: Shimmy568's 
+main_title: "{{witty-title}}"
 redirectTitle: Home
 # subtitle
 subtitle: Warning High Levels of Sarcasm Ahead
