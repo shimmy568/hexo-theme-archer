@@ -1,4 +1,4 @@
-hexo-theme-archer
+hexo-theme-archer (with some small modifications from shimmy568 for my personal blog)
 ================
 
 ![preview](./docs/snap.png)
