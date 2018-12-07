@@ -55,7 +55,7 @@ SEO_keywords:
   - title
 # main title shown in header image
 main_title: "{{witty-title}}"
-redirectTitle: Home
+redirectTitle: "{{witty-title}}"
 # subtitle
 subtitle: Warning High Levels of Sarcasm Ahead
 # site haeder image
